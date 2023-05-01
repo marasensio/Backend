@@ -1,0 +1,14 @@
+{
+  "lastId": 2,
+  "products": [
+    {
+      "id": 1,
+      "title": "Manteca",
+      "description": "La Serenísima 100 grs.",
+      "price": 370,
+      "thumbnail": "imagen",
+      "code": "abc123",
+      "stock": 250
+    }
+  ]
+}
